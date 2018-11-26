@@ -14,7 +14,7 @@
 	- Feature for the neural network model:
 		- The whole board can be the feature
 		- Distance from head to food and the next move to get to the food position  
-- Try it out. 
+- Try it out . 
 	- Download this project. Run the `jar` file. 
 	> ![snake](https://user-images.githubusercontent.com/35666615/48994580-acbf0680-f109-11e8-8908-d07c480423fd.PNG)
 
